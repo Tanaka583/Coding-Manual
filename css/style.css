@@ -1,0 +1,10 @@
+<style type="text/css">
+@font-face {
+    font-family: "Oswald";
+    src: url() format("truetype");
+}
+p.customfont { 
+    font-family: "My Custom Font", Verdana, Tahoma;
+}
+</style>
+<p class="customfont">Hello world!</p>
