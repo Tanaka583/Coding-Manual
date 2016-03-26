@@ -3,14 +3,10 @@
 	src: url(../fonts/fatal.ttf);
 }
 
-#cssPage{
-	font-family: fatal;
-}
-@font-face{
-	font-family: disco;
-	src: url(../fonts/disco.ttf);
+body{
+	font-family: times;
 }
 
-#javascriptPage{
-	font-family: disco;
+#cssExample{
+	width: 600px;
 }
