@@ -11,6 +11,14 @@ body{
 	background-color: #156b65
 }
 
+p {
+	border: solid 2px #2ad089;
+	background-color: #156b65;
+	display: table;
+	padding: 12px;
+	margin: 8px 8px 8px 8px;
+}
+
 #cssExample{
 	width: 600px;
 }
@@ -83,4 +91,25 @@ header nav ul li a:hover {
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+}
+
+
+section#feature h1 {
+	font-size: 60px;
+	background-color:#2ad089;
+	text-indent: 30px;
+	text-align: center;
+	}
+
+
+section#feature h2 {
+	text-decoration: overline;
+	font-style: italic;
+	text-transform: lowercase;
+	text-indent: 50px;
+
+	word-spacing: 15px;
+	display:inline;
+
+	color: ;
 }
